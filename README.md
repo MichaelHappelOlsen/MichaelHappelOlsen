@@ -1,4 +1,6 @@
-### Hi there 👋
+| 🇺🇸 🇬🇧 | 🇩🇰 | 
+| :--- | :--- |
+| Hi 👋<br /> Nothing to see here really, just a nerd dabling with a bit of everything | Hej 👋<br />Der er ikke rigtigt noget spændende her, bare en nørd der piller med lidt af hvert |
 
 <!--
 **MichaelHappelOlsen/MichaelHappelOlsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
